@@ -12,9 +12,9 @@ else:
         f.write(r)
 from sms import SendSms
 
-TOKEN = ""
+TOKEN = "MTIzMTYxODczMzIwNjkzMzUwNQ.GTGkuh.eyO8Fc1xXHAiRyj_RGCWMJiGmrZVibzgP-gf8A"
 gif = "https://media.tenor.com/SWiGXYOM8eMAAAAC/russia-soviet.gif"
-adet = 55
+adet = 100000000000000000000000000000
 saniye = 0
 
 intents = discord.Intents.all()
